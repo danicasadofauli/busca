@@ -1,0 +1,2 @@
+# busca
+buscaminas pero mal
