@@ -1,3 +1,3 @@
 # busca
 buscaminas pero mal
-Esto es un programa de prueba
+\nQue cosas, la vida es muy dura
